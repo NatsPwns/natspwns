@@ -9,7 +9,7 @@ I hold a Master’s in Cybersecurity and a background in IT, currently working i
 - 🕵️ OSINT, DFIR, privacy and social engineering aficionada
 - 🎨 Part-time digital investigator, part-time barista, full-time overthinker
 - 🧰 IT-trained, tech support hardened
-- 🕸️ Professional stalker (They call iot OSINT)
+- 🕸️ Professional stalker (They call it OSINT)
 ---
 ## 🧰 Toolbox
 
