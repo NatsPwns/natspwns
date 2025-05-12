@@ -7,9 +7,9 @@
 I hold a Master’s in Cybersecurity and a background in IT, currently working in Tech Support while developing dangerously advanced Google search skills and sharpening my digital forensics claws. I specialize in asking uncomfortable questions (to systems *and* people), and I’m a bit obsessed with OSINT, privacy, and a knack for breaking things to improve them.
 
 - 🕵️ OSINT, DFIR, privacy and social engineering aficionada
-- 🎨 Part-time digital investigator, part-time barista full-time overthinker
+- 🎨 Part-time digital investigator, part-time barista, full-time overthinker
 - 🧰 IT-trained, tech support hardened
-- 🕸️ Professional stalker (ethically... mostly)
+- 🕸️ Professional stalker (They call iot OSINT)
 ---
 ## 🧰 Toolbox
 
